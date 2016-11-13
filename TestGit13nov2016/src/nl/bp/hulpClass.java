@@ -10,6 +10,7 @@ public class hulpClass {
 		{	
 		 System.out.println("Return Naam: " + getallen[i]);
 		}
+		return var1;
 		
 	}
 
