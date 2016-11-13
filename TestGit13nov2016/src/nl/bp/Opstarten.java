@@ -14,5 +14,6 @@ public class Opstarten {
 	{
 		// eerste poging
 		System.out.println("Naam: " + var1);
+		System.out.println("Test poging 2 ");
 	}
 }
