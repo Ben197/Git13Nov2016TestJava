@@ -13,7 +13,8 @@ public class Opstarten {
 	private void pintNaamOpstarten(String var1)
 	{
 		// eerste poging
-		System.out.println("Naam: " + var1);
-		System.out.println("Test poging 2 ");
+		System.out.println("NAAM MET CAPS: " + var1);
+		System.out.println("TEST POGING 2 ");
+		System.out.println("------------ ");
 	}
 }
