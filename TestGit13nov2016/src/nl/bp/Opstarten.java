@@ -16,5 +16,6 @@ public class Opstarten {
 		System.out.println("NAAM MET CAPS: " + var1);
 		System.out.println("TEST POGING 2 ");
 		System.out.println("------------ ");
+		System.out.println("Heel mooi");
 	}
 }
